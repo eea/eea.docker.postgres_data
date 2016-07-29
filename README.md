@@ -4,7 +4,7 @@ usage:
 
 create the volume (/var/lib//pgsql/data and /var/lib/postgresql/data): 
 
-    docker run -d --name <app>_postgres_data eeacms/postgres-data
+    docker run -d --name <app>_postgres_data eeacms/postgres_data
 
 usage it with postgres example:
 
